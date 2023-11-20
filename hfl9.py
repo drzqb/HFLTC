@@ -1,5 +1,5 @@
 '''
-    自动调参实验
+    基于optuna的自动调参实验
 '''
 import warnings
 
