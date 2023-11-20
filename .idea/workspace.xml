@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fe50ecf-5306-4cdf-a2ca-49d3130c14b0" name="默认更改列表" comment="" />
+    <list default="true" id="5fe50ecf-5306-4cdf-a2ca-49d3130c14b0" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/hfl9_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +23,69 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pythonwork\HFLTC" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.hfl9_1">
+    <configuration name="hfl9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HFLTC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hfl9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hfl9_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HFLTC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hfl9_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hfl9_1" />
+        <item itemvalue="Python.hfl9" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,7 +98,12 @@
       <option name="presentableId" value="Default" />
       <updated>1696835547241</updated>
       <workItem from="1696835548367" duration="401000" />
-      <workItem from="1696906454945" duration="1068000" />
+      <workItem from="1696906454945" duration="1723000" />
+      <workItem from="1696926150819" duration="1402000" />
+      <workItem from="1696951857828" duration="1808000" />
+      <workItem from="1697776113641" duration="11000" />
+      <workItem from="1700397883528" duration="7516000" />
+      <workItem from="1700444812274" duration="1503000" />
     </task>
     <servers />
   </component>
@@ -45,5 +112,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1334" height="299" key="GridCell.Tab.0.bottom" timestamp="1700405595592">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state width="1334" height="299" key="GridCell.Tab.0.bottom/0.0.2752.1122@0.0.2752.1122" timestamp="1700405595592" />
+    <state width="1334" height="299" key="GridCell.Tab.0.center" timestamp="1700405595592">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state width="1334" height="299" key="GridCell.Tab.0.center/0.0.2752.1122@0.0.2752.1122" timestamp="1700405595592" />
+    <state width="1334" height="299" key="GridCell.Tab.0.left" timestamp="1700405595592">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state width="1334" height="299" key="GridCell.Tab.0.left/0.0.2752.1122@0.0.2752.1122" timestamp="1700405595592" />
+    <state width="1334" height="299" key="GridCell.Tab.0.right" timestamp="1700405595592">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state width="1334" height="299" key="GridCell.Tab.0.right/0.0.2752.1122@0.0.2752.1122" timestamp="1700405595592" />
+    <state x="1566" y="205" key="SettingsEditor" timestamp="1696926302482">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state x="1566" y="205" key="SettingsEditor/0.0.2752.1122@0.0.2752.1122" timestamp="1696926302482" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HFLTC$hfl9_1.coverage" NAME="hfl9_1 Coverage Results" MODIFIED="1700446512690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HFLTC$hfl9.coverage" NAME="hfl9 Coverage Results" MODIFIED="1700401350337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
